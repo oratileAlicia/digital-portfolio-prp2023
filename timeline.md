@@ -1,10 +1,10 @@
-# 🗓️ Timeline
+# Timeline
 
 This timeline outlines my personal, academic, and career development goals for 2025.
 
 ---
 
-### 📍 May 2025
+### May 2025
 
 - Actively working as a **Residence Student Assistant (RSA)**.
 - Applying for **internships**, including roles at leading tech companies.
@@ -13,7 +13,7 @@ This timeline outlines my personal, academic, and career development goals for 2
 
 ---
 
-### 📍 June–July 2025 (Winter Break)
+### June–July 2025 (Winter Break)
 
 - Deepening my knowledge in **automation**, especially integration-related skills.
 - Completing AWS Cloud Practitioner studies and pursuing **practical training** if available.
@@ -22,7 +22,7 @@ This timeline outlines my personal, academic, and career development goals for 2
 
 ---
 
-### 📍 August–November 2025 (Semester 2)
+### August–November 2025 (Semester 2)
 
 - Master key concepts in **cloud computing**.
 - Strengthen my **relationship with God** through intentional spiritual practice.
@@ -31,7 +31,7 @@ This timeline outlines my personal, academic, and career development goals for 2
 
 ---
 
-### 📍 December 2025
+### December 2025
 
 - Apply for the **Abe Bailey Travel Bursary** for a potential travel and leadership opportunity.
 - Focus on **growing my candle business** and building momentum in my **Airbnb venture**.
