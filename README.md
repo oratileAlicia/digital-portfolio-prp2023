@@ -1,2 +1,13 @@
-# digital-portfolio-prp2023
- Work Readiness Digital Portfolio  Welcome to my Digital Portfolio, created for the Project Presentation 3 module at Cape Peninsula University of Technology (CPUT). This portfolio showcases my development through the work readiness program.
+Digital Portfolio – PRP370S/PRP371S/PRP372S
+
+👋 Introduction
+Welcome to my digital portfolio for the Project Presentation 3 module. 
+This portfolio documents my learning journey, highlights key projects, 
+and reflects on my growth and skills in preparation for the workplace.
+
+📁 Portfolio Structure
+- [Artefacts](artefacts/): Files from learning activities
+- [Reflections](reflections/): Personal learning reflections
+- [Goals](goals.md): My personal and professional goals
+- [Timeline](timeline.md): My project schedule
+- [Links](links.md): External work and profile links
