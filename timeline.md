@@ -2,11 +2,8 @@
 
 May 2025
 Actively working as a Residence Student Assistant (RSA).
-
 Applying for internships, including roles at leading tech companies.
-
 Preparing for final exams.
-
 Studying for the AWS Cloud Practitioner Certification.
 
 📍 June–July 2025 (Winter Break)
