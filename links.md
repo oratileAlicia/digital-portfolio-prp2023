@@ -1,5 +1,4 @@
-# 🔗 Project and Web Links
+ Professional Profiles
+GitHub: https://github.com/oratileAlicia
 
-- [LinkedIn Profile](https://www.linkedin.com/in/YOURNAME/)
-- [GitHub Repositories](https://github.com/YOURUSERNAME)
-- [Group Project Website](https://example.com)
+LinkedIn: www.linkedin.com/in/oratiles
