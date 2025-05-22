@@ -1,22 +1,41 @@
 # Goals
 
-## Short-Term Goals
-Short-Term Goals (Next 6 Months)
-Secure an internship at Microsoft or any of the major companies I've applied to.
+This document outlines my short-term, medium-term, and long-term goals — both personal and professional.
 
-Complete the AWS Cloud Practitioner Certification to strengthen my foundational cloud knowledge.
+---
 
-Aim to achieve an average of 75% or higher in my academic assessments for the year.
+## Short-Term Goals (By End of Semester)
 
-Absorb and apply as much hands-on knowledge as possible from the workplace or internship experience.
+- Secure an internship at Microsoft or another major tech company.
+- Complete the AWS Cloud Practitioner certification.
+- Prepare well for final exams.
+- Maintain my role as an RSA (Residence Student Assistant).
+- Achieve a **75% average** for the academic year.
+
+---
+
+## Medium-Term Goals (Next 6 Months)
+
+- Gain practical experience and learn as much as possible from the workplace.
+- Strengthen skills in **cloud computing** and **automation**, especially integrations.
+- Complete AWS certification training (if possible).
+- Continue helping students as an RSA.
+- Improve time management and consistency.
+- Master key technologies relevant to cybersecurity and cloud.
+- Be awarded the **Abe Bailey Travel Bursary** to explore international learning opportunities.
+
+---
 
 ## Long-Term Goals
-Build a career as a Cybersecurity Analyst or a Cloud Specialist, applying both theoretical and practical knowledge gained through study and work experience.
 
-Work independently as a freelance Ethical Hacker / Penetration Tester, offering services to small businesses and startups.
+- Become a **Cybersecurity Analyst** or Cloud Specialist.
+- Work as a **freelance ethical hacker** or penetration tester.
+- Successfully run my **candle business** and **Airbnb business**.
+- Grow personally and spiritually — especially building a stronger relationship with God.
+- Obtain my **learner’s permit and driver’s license**.
+- Travel international trips
+- Reflect on the year's growth and set new goals with clarity and purpose.
 
-Run two successful ventures:
+---
 
-A growing candle business focused on personalized or eco-friendly products.
 
-A thriving Airbnb business, potentially offering tech-enhanced stays or digital nomad accommodations.
