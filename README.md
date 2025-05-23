@@ -1,4 +1,4 @@
-Digital Portfolio – PRP370S/PRP371S/PRP372S
+Digital Portfolio – PRP371S
 
 👋 Introduction
 Welcome to my digital portfolio for the Project Presentation 3 module. 
