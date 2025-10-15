@@ -1,6 +1,6 @@
 Digital Portfolio – PRP371S
 
-👋 Introduction
+Introduction
 Welcome to my digital portfolio for the Project Presentation 3 module. 
 This portfolio documents my learning journey, highlights key projects, 
 and reflects on my growth and skills in preparation for the workplace.
